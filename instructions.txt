@@ -1,0 +1,14 @@
+Cycling data from Auckland, New Zealand
+
+You receive hourly data from the city of Auckland. They wanted to promote cycling in the city and decided to monitor cyclists to see how many cyclists travel through the city.
+
+Your assignment is to make a forecasting model for the year 2018 (test set). The data before 2018 is your train set. Start with a basic model and then add first holidays, and secondly add all the weather variables.
+
+I have aggregated the data for you in nice files so that you do not have to do the messy work.
+
+daily counts: cycling_counts_by_day.csv
+weather: Auckland_weather_combined.csv
+
+For holidays you can use the holidays python package.
+
+
